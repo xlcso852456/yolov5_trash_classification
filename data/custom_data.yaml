@@ -1,0 +1,8 @@
+train: /content/drive/Shareddrives/recycle/yolov5/images/train  # train images (relative to 'path') 128 images
+val: /content/drive/Shareddrives/recycle/yolov5/images/val  # val images (relative to 'path') 128 images
+
+
+# Classes
+nc: 5  # number of classes
+names: ['trash', 'can', 'paper_container', 'plastic', 'paper']  # class names
+
